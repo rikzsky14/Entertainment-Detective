@@ -68,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+###
+###
+###
+This program fetches restaurants, hotels, and attractions based on location by utilizing React, JavaScript, Google Maps API, and specialized Rapid APIs. The program will allow you to filter the entertainment sections by ratings out of 5. You can use your current location for the program or you could input a location of your choice.
